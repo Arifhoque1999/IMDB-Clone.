@@ -1,4 +1,4 @@
 # IMDB-Clone.
-![Screenshot (11)](https://user-images.githubusercontent.com/120245077/215144049-d1480fa3-6e86-4c33-af25-c4fff75ab137.png)
-![Screenshot (12)](https://user-images.githubusercontent.com/120245077/215144319-3d6aecae-9cb6-4d77-aafe-24dcd2018f75.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/120245077/215144410-3997ecc0-59d7-48af-8eab-ea94c41df1f5.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/120245077/215147109-aee0be70-0420-4894-b00d-85cb5f60260a.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/120245077/215147132-b5a833b7-59d1-467a-bb4c-99886e6f7c9a.png)
+![Screenshot (13)](https://user-images.githubusercontent.com/120245077/215147148-69695f4f-9858-49b1-a3a4-2c5d104ad5a8.png)
