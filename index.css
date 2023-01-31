@@ -148,3 +148,30 @@ h3{
   
 }
 
+
+@media only screen and (max-width: 590px) {
+
+ h1{
+  font-size: x-small !important;
+ }
+ 
+ .left_site a{
+  display: none;
+ }
+.left_site{
+  margin-left: -10px;
+}
+.nave_midel{
+  margin-left: -15px;
+}
+
+ button{
+  width: 150px ;
+  color: #121212;
+  
+  
+ }
+
+
+}
+
